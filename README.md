@@ -1,5 +1,5 @@
 ⠀
-<div style="float: left; max-height: 400px; position: fixed; right: 10px; bottom: 5px; z-index: 200;"><img src="https://media.tenor.com/SIJYx_Xl564AAAAj/shadow.gif" width="150" height="150"/></div>
+
 
 
 
