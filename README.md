@@ -1,4 +1,4 @@
-<!-- (c) Layout created by ☆*Kairo .*☆ (https://layouts.spacehey.com/layout?id=83858) -->
+
 
 <div style="float:  ; max-height: 200px; position: fixed; right: 13px; top: 12px; z-index: 200;">
 
