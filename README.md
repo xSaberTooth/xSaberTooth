@@ -1,4 +1,4 @@
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fautisticshadowthehedgehog.tumblr.com%2Fpost%2F739270182118342656&psig=AOvVaw3CPKcb9qNLpTAhOiuWqp82&ust=1746930274432000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCJDsnsbsl40DFQAAAAAdAAAAABCDAg" height="200"/></div>
+<img src="[    ](https://64.media.tumblr.com/7f341a85be791228b4c9b4b2483523bf/bd5573991a7134e2-f7/s540x810/041748731b1c813cfd6927fd535b093628ba87ec.gif)" height="200"/></div>
 
 
